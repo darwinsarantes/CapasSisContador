@@ -1,0 +1,11 @@
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Logica\bin\Debug\Logica.dll
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Logica\bin\Debug\Logica.pdb
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Logica\bin\Debug\Acceso.dll
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Logica\bin\Debug\CapasSisContador.dll
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Logica\bin\Debug\MySql.Data.dll
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Logica\bin\Debug\Acceso.pdb
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Logica\bin\Debug\CapasSisContador.pdb
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Logica\bin\Debug\MySql.Data.xml
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Logica\obj\Debug\Logica.dll
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Logica\obj\Debug\Logica.pdb

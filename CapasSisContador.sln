@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidad", "CapasSisContador\Entidad.csproj", "{877207C2-BF3B-402D-88A0-B598703CE3F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acceso", "Acceso\Acceso.csproj", "{0087057B-9736-4898-AA6C-8C974E24EC4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{1F8B6134-5191-463B-BD34-C9BA5213362E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877207C2-BF3B-402D-88A0-B598703CE3F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{877207C2-BF3B-402D-88A0-B598703CE3F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{877207C2-BF3B-402D-88A0-B598703CE3F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{877207C2-BF3B-402D-88A0-B598703CE3F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0087057B-9736-4898-AA6C-8C974E24EC4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0087057B-9736-4898-AA6C-8C974E24EC4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0087057B-9736-4898-AA6C-8C974E24EC4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0087057B-9736-4898-AA6C-8C974E24EC4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F8B6134-5191-463B-BD34-C9BA5213362E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F8B6134-5191-463B-BD34-C9BA5213362E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F8B6134-5191-463B-BD34-C9BA5213362E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F8B6134-5191-463B-BD34-C9BA5213362E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

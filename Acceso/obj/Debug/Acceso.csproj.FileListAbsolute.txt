@@ -1,0 +1,9 @@
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Acceso\obj\Debug\Acceso.csprojResolveAssemblyReference.cache
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Acceso\bin\Debug\Acceso.dll
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Acceso\bin\Debug\Acceso.pdb
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Acceso\bin\Debug\CapasSisContador.dll
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Acceso\bin\Debug\MySql.Data.dll
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Acceso\bin\Debug\CapasSisContador.pdb
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Acceso\bin\Debug\MySql.Data.xml
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Acceso\obj\Debug\Acceso.dll
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\Acceso\obj\Debug\Acceso.pdb

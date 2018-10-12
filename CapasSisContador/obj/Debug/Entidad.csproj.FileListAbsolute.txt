@@ -1,0 +1,4 @@
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\CapasSisContador\bin\Debug\CapasSisContador.dll
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\CapasSisContador\bin\Debug\CapasSisContador.pdb
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\CapasSisContador\obj\Debug\CapasSisContador.dll
+D:\Perfiles\STDeveloper\Documents\Visual Studio 2015\Projects\CapasSisContador\CapasSisContador\obj\Debug\CapasSisContador.pdb
